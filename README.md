@@ -1,8 +1,8 @@
 # DC Motor Dynamic Modeling & PID Speed Control using MATLAB Simulink
 
-![MATLAB](https://img.shields.io/badge/Code-MATLAB%2B-orange?logo=MATLAB&logoColor=white)
-![SimuLink](https://img.shields.io/badge/Code-SimuLink%2B-orange?logo=SimuLink&logoColor=white)
-![SimScape](https://img.shields.io/badge/Code-SimScape%2B-orange?logo=SimScape&logoColor=white)
+![MATLAB](https://img.shields.io/badge/Code-MATLAB%2B-orange?logo=MATLABlogoColor=white)
+![SimuLink](https://img.shields.io/badge/Code-SimuLink%2B-orange?logo=SimuLinklogoColor=white)
+![SimScape](https://img.shields.io/badge/Code-SimScape%2B-orange?logo=SimScapelogoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
 ## Project Overview 
