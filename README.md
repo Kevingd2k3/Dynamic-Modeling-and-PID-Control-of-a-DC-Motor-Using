@@ -7,7 +7,7 @@
 
 ## Project Overview 
 
-    This project models the electromechanical dynamics of a DC motor using MATLAB Simulink, designs a PID controller for speed regulation, and compares numerical solvers (`ode45` vs `ode15s`) using quantitative response metrics.
+This project models the electromechanical dynamics of a DC motor using MATLAB Simulink, designs a PID controller for speed regulation, and compares numerical solvers (`ode45` vs `ode15s`) using quantitative response metrics.
 
 ---
 
