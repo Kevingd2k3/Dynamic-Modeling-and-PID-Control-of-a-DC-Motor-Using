@@ -47,6 +47,7 @@ $$J \frac{d\omega}{dt} = K_t i - B\omega - T_L$$
 
 ### System Parameters
 
+```text 
 R  = 1;      % Ohm
 L  = 0.5;    % H
 Ke = 0.01;   % V/(rad/s)
@@ -55,6 +56,7 @@ J  = 0.01;   % kg*m^2
 B  = 0.1;    % Nms
 TL = 0.1;    % Nm
 V  = 12;     % V
+```
 
 ## 3. Simulink Model Overview 
 
