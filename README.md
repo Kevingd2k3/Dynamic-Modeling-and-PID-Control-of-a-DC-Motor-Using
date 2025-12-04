@@ -58,7 +58,7 @@ V  = 12;     % V
 
 ## 3. Simulink Model Overview 
 
-![Mathematical_Motor_Model]](Matlab_model.png)
+![Mathematical_Motor_Model](Matlab_model.png)
 
 The Simulink model consists of:
 1. Electrical Subsystem: Converts applied voltage ($V$) to current ($i$).
