@@ -80,17 +80,17 @@ Verification: Behavior matches theoretical steady-state calculations.🎛
 
 Manual tuning was performed to reduce overshoot and achieve smooth settling.
 
-❌ Initial Gains
+**Initial Gains**
 
 Values: $P = 10, I = 50, D = 0
 Result: Very high overshoot (~80%) with significant oscillations.
 
-⚠️ Improved Attempt
+**Improved Attempt**
 
 Values: $P = 6, I = 40, D = 0.1
 Result: Reduced oscillations but still unstable.
 
-✅ Final Tuned Gains
+**Final Tuned Gains**
 
 Values: $P = 5, I = 12, D = 0.2
 Result: 
@@ -141,3 +141,7 @@ Final tuned gains ($P=5, I=12, D=0.2$) provide a stable, smooth, overshoot-free 
 │── Matlab_model.png         # Screenshot of the Simulink model
 │── motor_parameters.m       # MATLAB script for system parameters
 │── README.md                # Project documentation
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
